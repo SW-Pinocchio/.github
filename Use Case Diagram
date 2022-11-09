@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T15:54:51.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_OB8f-uL93eJqr4C4CM9" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T15:57:52.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lN0eDrtfynO8ab__4yrT" version="20.5.3" type="github">
   <diagram id="krQl1NAr_Uzct_Pf9GCD" name="페이지-1">
     <mxGraphModel dx="700" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="ElBBsk1AIbg9ltWtopyc-8" value="회원가입" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="210" width="87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ElBBsk1AIbg9ltWtopyc-9" value="메일 연동" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ElBBsk1AIbg9ltWtopyc-9" value="메일 인증" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="453" y="210" width="87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ElBBsk1AIbg9ltWtopyc-10" value="개인정보 수정" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
